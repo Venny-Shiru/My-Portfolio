@@ -27,7 +27,7 @@ This portfolio website is built using:
 Feel free to reach out to me:
 
 * Email: vennywanjiru@gmail.com
-* LinkedIn: 
+* LinkedIn: https://www.linkedin.com/in/venny-kang-ethe-398598288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 * GitHub: https://github.com/Venny-Shiru
 
 ## Contributions
